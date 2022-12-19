@@ -7,7 +7,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />}></Route>
         <Route path="/cart" element={<Cart />}></Route>
-        {/* <Route path='*' element={<Error />} /> */}
+        <Route path="*" element={<Home />} />
       </Routes>
     </BrowserRouter>
   );

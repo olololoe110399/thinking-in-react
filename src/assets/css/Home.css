@@ -3,8 +3,8 @@ body {
 }
 .text-right {
   text-align: right;
-   display: flex;
-  justify-content: end;
+  display: flex;
+  justify-content: flex-end;
   align-items: center;
 }
 .text-between {
