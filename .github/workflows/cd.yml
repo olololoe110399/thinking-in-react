@@ -33,6 +33,7 @@ jobs:
         git remote set-url origin https://${github_token}@github.com/${repository}
         yarn deploy
       env:
+        CI: false
         user_name: 'olololoe110399'
         user_email: 'duynn100198@gmail.com'
         github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
