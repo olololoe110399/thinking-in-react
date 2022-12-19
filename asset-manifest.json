@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/thinking-in-react/static/css/main.073c9b0a.css",
-    "main.js": "/thinking-in-react/static/js/main.f3227584.js",
-    "static/js/787.533d2611.chunk.js": "/thinking-in-react/static/js/787.533d2611.chunk.js",
+    "main.js": "/thinking-in-react/static/js/main.920df193.js",
+    "static/js/787.91adf6e5.chunk.js": "/thinking-in-react/static/js/787.91adf6e5.chunk.js",
     "static/media/logo.svg": "/thinking-in-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/thinking-in-react/index.html",
     "main.073c9b0a.css.map": "/thinking-in-react/static/css/main.073c9b0a.css.map",
-    "main.f3227584.js.map": "/thinking-in-react/static/js/main.f3227584.js.map",
-    "787.533d2611.chunk.js.map": "/thinking-in-react/static/js/787.533d2611.chunk.js.map"
+    "main.920df193.js.map": "/thinking-in-react/static/js/main.920df193.js.map",
+    "787.91adf6e5.chunk.js.map": "/thinking-in-react/static/js/787.91adf6e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f3227584.js"
+    "static/js/main.920df193.js"
   ]
 }
